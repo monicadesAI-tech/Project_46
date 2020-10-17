@@ -1,0 +1,208 @@
+title,address,price,bedrooms,bathrooms,area,area_lot
+,"1541 Club View Dr, Los Angeles, CA 90024","$3,849,000",3 bed,3 bath,"3,354 sqft","8,100 sqft lot"
+,"3125 Winter St, Los Angeles, CA 90063","$700,000",5 bed,2 bath,"2,756 sqft","5,200 sqft lot"
+,"9324 Holmes Ave, Los Angeles, CA 90002","$880,000",4 bed,3 bath,"3,604 sqft","7,153 sqft lot"
+,"4128 Whitsett Ave Apt 102, Studio City, CA 91604","$679,000",2 bed,2 bath,"1,040 sqft",0.41 acre lot
+,"1214 S Gramercy Pl, Los Angeles, CA 90019","$1,575,000",4 bed,2 bath,"2,743 sqft",0.29 acre lot
+,"1400 N Vista St Unit 2, Los Angeles, CA 90046","$749,000",2 bed,2.5 bath,"1,301 sqft","6,720 sqft lot"
+,"1139 N Cole Ave, Los Angeles, CA 90038","$998,108",4 bed,2 bath,"1,608 sqft","3,450 sqft lot"
+,"735 W 33rd St, San Pedro, CA 90731","$1,199,000",4 bed,4 bath,"3,755 sqft","5,001 sqft lot"
+,"4938 O Sullivan Dr, Los Angeles, CA 90032","$688,000",3 bed,2 bath,"1,082 sqft","4,800 sqft lot"
+,"5718 Sunlight Pl, Los Angeles, CA 90016","$1,175,000",5 bed,3 bath,"2,794 sqft","7,183 sqft lot"
+,"5685 Baltimore St, Los Angeles, CA 90042","$1,079,000",3 bed,2 bath,"1,748 sqft","5,663 sqft lot"
+,"1632 Stonewood Ct, San Pedro, CA 90732","$599,000",3 bed,2.5 bath,"1,595 sqft",3.83 acre lot
+,"3835 Broadlawn Dr, Los Angeles, CA 90068","$1,529,000",4 bed,2 bath,"2,200 sqft","6,949 sqft lot"
+,"5332 Fulton Ave, Sherman Oaks, CA 91401","$2,198,000",5 bed,5 bath,"3,189 sqft","9,344 sqft lot"
+,"9702 Wilmington Ave, Los Angeles, CA 90002","$500,000",3 bed,2 bath,"1,200 sqft","4,493 sqft lot"
+,"11808 Dorothy St Apt 107, Los Angeles, CA 90049","$995,000",1 bed,1.5 bath,"1,531 sqft",0.54 acre lot
+,"200 N San Fernando Rd Apt 209, Los Angeles, CA 90031","$515,000",Studio,1 bath,"1,020 sqft",1.45 acre lot
+,"8740 Willis Ave Unit 12, Panorama City, CA 91402","$400,000",2 bed,3 bath,"1,249 sqft",0.59 acre lot
+,"5325 Newcastle Ave Unit 328, Encino, CA 91316","$259,000",Studio,1 bath,475 sqft,2.37 acre lot
+,"8261 N Sophie Ct, Northridge, CA 91325","$679,000",4 bed,2.5 bath,"1,835 sqft","2,653 sqft lot"
+,"15322 Weddington St Apt 5, Sherman Oaks, CA 91411","$529,900",2 bed,2.5 bath,"1,134 sqft",0.24 acre lot
+,"849 S Broadway Apt 412, Los Angeles, CA 90014","$1,075,000",2 bed,2 bath,"1,770 sqft",0.52 acre lot
+,"3370 Canton Ln, Studio City, CA 91604","$1,785,000",2 bed,3 bath,"1,810 sqft",0.25 acre lot
+,"12021 Guerin St Ph 4, Studio City, CA 91604","$979,000",3 bed,2.5 bath,"1,608 sqft",0.54 acre lot
+,"10147 Topeka Dr, Northridge, CA 91324","$1,269,000",4 bed,4 bath,"3,097 sqft",0.46 acre lot
+,"6051 Longridge Ave, Valley Glen, CA 91401","$925,000",3 bed,2.5 bath,"1,859 sqft","5,898 sqft lot"
+,"4637 W 18th St, Los Angeles, CA 90019","$1,650,000",4 bed,4 bath,"5,042 sqft","6,625 sqft lot"
+,"4010 Baywood St, Los Angeles, CA 90039","$1,299,000",8 bed,4 bath,"3,064 sqft","7,000 sqft lot"
+,"4047 Camero Ave, Los Angeles, CA 90027","$1,199,000",3 bed,2 bath,"1,638 sqft","5,397 sqft lot"
+,"3207 McManus Ave, Los Angeles, CA 90034","$1,299,000",2 bed,1 bath,"1,065 sqft","5,358 sqft lot"
+,"201 Waterview St, Playa Del Rey, CA 90293","$2,699,000",3 bed,2.5 bath,"2,775 sqft","3,376 sqft lot"
+,"6825 Whitley Ter, Los Angeles, CA 90068","$1,799,000",5 bed,4 bath,"3,040 sqft","4,121 sqft lot"
+,"6826 Iris Cir, Los Angeles, CA 90068","$1,799,000",6 bed,4 bath,"2,724 sqft","3,419 sqft lot"
+,"2832 Macon St, Los Angeles, CA 90065","$2,150,000",1 bed,1 bath,"3,928 sqft","6,155 sqft lot"
+,"2611 Beach Ave, Venice, CA 90291","$2,200,000",3 bed,3 bath,"2,215 sqft","2,701 sqft lot"
+,"111 N Kenmore Ave, Los Angeles, CA 90004","$3,000,000",8 bed,4 bath,"5,972 sqft","7,584 sqft lot"
+,"16727 Bollinger Dr, Pacific Palisades, CA 90272","$2,300,000",3 bed,2 bath,"1,907 sqft","4,826 sqft lot"
+,"405 Sherman Canal, Venice, CA 90291","$4,795,000",4 bed,4 bath,"3,936 sqft","2,849 sqft lot"
+,"2939 Leeward Ave Apt 312, Los Angeles, CA 90005","$777,000",2 bed,2 bath,"1,262 sqft",
+,"453 N Stanley Ave, Los Angeles, CA 90036","$2,499,000",12 bed,16 bath,"8,927 sqft","6,360 sqft lot"
+,"889 Francisco St Unit 2108, Los Angeles, CA 90017","$1,315,000",2 bed,2 bath,"1,365 sqft",2.27 acre lot
+,"11848 Apple Grove Ln, Sylmar, CA 91342","$625,000",4 bed,3 bath,"2,457 sqft",4.38 acre lot
+,"7109 Farralone Ave Unit 112, Canoga Park, CA 91303","$499,888",3 bed,2.5 bath,"1,675 sqft",0.84 acre lot
+,"10878 Bloomfield St Apt 203, Toluca Lake, CA 91602","$769,000",3 bed,2.5 bath,"1,950 sqft",0.74 acre lot
+,"15232 Foothill Blvd Unit 113, Sylmar, CA 91342","$501,000",3 bed,2.5 bath,"1,500 sqft",1.04 acre lot
+,"5460 White Oak Ave Unit D210, Encino, CA 91316","$359,000",2 bed,2 bath,990 sqft,9.33 acre lot
+,"968 W Upland Ave, San Pedro, CA 90731","$549,000",2 bed,1 bath,"1,092 sqft","4,800 sqft lot"
+,"11000 Herrick Ave, Pacoima, CA 91331","$579,900",2 bed,1.5 bath,"1,367 sqft","8,100 sqft lot"
+,"2752 W 15th St, Los Angeles, CA 90006","$1,800,000",6 bed,5 bath,568 sqft,"6,499 sqft lot"
+,"1032 S Mesa St, San Pedro, CA 90731","$509,000",2 bed,1 bath,624 sqft,"1,448 sqft lot"
+,"6560 Tyrone Ave, Van Nuys, CA 91401","$599,500",3 bed,2 bath,952 sqft,"5,350 sqft lot"
+,"520 S Barrington Ave Unit 101, Los Angeles, CA 90049","$949,000",2 bed,3 bath,"1,278 sqft",0.51 acre lot
+,"8738 Delgany Ave Apt 104, Playa Del Rey, CA 90293","$589,900",1 bed,1 bath,871 sqft,0.36 acre lot
+,"12411 Osborne St Unit 5, Pacoima, CA 91331","$379,000",2 bed,3 bath,"1,107 sqft",3.49 acre lot
+,"19547 Rinaldi St Unit 34, Porter Ranch, CA 91326","$560,000",3 bed,2.5 bath,"1,520 sqft",7.76 acre lot
+,"9800 Vesper Ave Unit 145, Panorama City, CA 91402","$399,900",3 bed,1.5 bath,"1,209 sqft",3.87 acre lot
+,"13540 Hubbard St Unit 20, Sylmar, CA 91342","$359,900",2 bed,2 bath,"1,221 sqft",1.97 acre lot
+,"2248 S Hobart Blvd, Los Angeles, CA 90018","$950,000",4 bed,1 bath,"2,800 sqft","8,481 sqft lot"
+,"3137 Fairmount St, Los Angeles, CA 90063","$600,000",3 bed,1 bath,976 sqft,"5,263 sqft lot"
+,"7527 Carmenita Ln, West Hills, CA 91304","$1,085,000",4 bed,3 bath,"2,347 sqft",0.26 acre lot
+,"5710 Ranchito Ave, Valley Glen, CA 91401","$1,025,000",3 bed,2 bath,"2,224 sqft","8,102 sqft lot"
+,"5518 Riverton Ave, North Hollywood, CA 91601","$699,000",2 bed,1 bath,"1,050 sqft","5,857 sqft lot"
+,"7233 Wilbur Ave, Reseda, CA 91335","$589,950",3 bed,1.5 bath,"1,080 sqft","5,412 sqft lot"
+,"24545 Calvert St, Woodland Hills, CA 91367","$1,049,000",4 bed,3 bath,"2,418 sqft",0.45 acre lot
+,"10535 Cedros Ave, Mission Hills, CA 91345","$649,900",4 bed,2 bath,"1,550 sqft","6,666 sqft lot"
+,"10900 Woodley Ave, Granada Hills, CA 91344","$650,000",4 bed,2 bath,"1,740 sqft","5,338 sqft lot"
+,"1105 S Shenandoah St, Los Angeles, CA 90035","$1,595,000",2 bed,2.5 bath,"1,505 sqft","4,012 sqft lot"
+,"10760 Woodley Ave Unit 1, Granada Hills, CA 91344","$415,000",2 bed,1 bath,966 sqft,3.64 acre lot
+,"1150 W Kensington Rd, Los Angeles, CA 90026","$1,095,000",3 bed,2 bath,"1,248 sqft",0.3 acre lot
+,"1330 Sanford Ave, Wilmington, CA 90744","$580,000",4 bed,2 bath,"1,633 sqft","5,329 sqft lot"
+,"17512 Hamlin St, Lake Balboa, CA 91406","$675,000",3 bed,1 bath,"1,121 sqft","6,432 sqft lot"
+,"11517 Baird Ave, Porter Ranch, CA 91326","$849,995",3 bed,2 bath,"1,679 sqft","8,035 sqft lot"
+,"13031 Villosa Pl Apt 105, Playa Vista, CA 90094","$1,095,000",2 bed,2.5 bath,"1,560 sqft",2.48 acre lot
+,"6300 Drexel Ave, Los Angeles, CA 90048","$2,149,000",3 bed,3 bath,"2,424 sqft","6,026 sqft lot"
+,"7011 Ponce Ave, West Hills, CA 91307","$779,000",4 bed,2.5 bath,"1,490 sqft","7,841 sqft lot"
+,"5861 Levi Ln, Sherman Oaks, CA 91401","$799,999",4 bed,2.5 bath,"1,574 sqft","1,897 sqft lot"
+,"8472 Oakwood Ave, Los Angeles, CA 90048","$1,900,000",4 bed,4 bath,"1,946 sqft","3,428 sqft lot"
+,"15210 Greenleaf St, Sherman Oaks, CA 91403","$3,595,000",5 bed,5 bath,"4,514 sqft",0.49 acre lot
+,"7843 Babcock Ave, North Hollywood, CA 91605","$829,900",3 bed,2 bath,"1,305 sqft","5,036 sqft lot"
+,"2481 Walgrove Ave, Los Angeles, CA 90066","$1,795,000",6 bed,4 bath,"3,500 sqft","5,198 sqft lot"
+,"1475 Westerly Ter, Silver Lake, CA 90026","$1,150,000",5 bed,2 bath,"2,026 sqft","4,600 sqft lot"
+,"11430 Palms Blvd, Los Angeles, CA 90066","$1,788,000",4 bed,3 bath,"2,432 sqft","5,929 sqft lot"
+,"12526 Rubens Ave, Los Angeles, CA 90066","$2,600,000",4 bed,3 bath,"3,003 sqft","5,001 sqft lot"
+,"11312 Belhaven St, Los Angeles, CA 90059","$485,000",3 bed,2 bath,"1,389 sqft","3,796 sqft lot"
+,"2533 Obama Blvd, Los Angeles, CA 90018","$599,000",6 bed,2 bath,873 sqft,"4,478 sqft lot"
+,"1018 E Mauretania St, Wilmington, CA 90744","$489,000",3 bed,2 bath,"1,434 sqft","4,806 sqft lot"
+,"13030 Valleyheart Dr Apt 103, Studio City, CA 91604","$674,900",2 bed,2.5 bath,"1,260 sqft",0.66 acre lot
+,"9936 Reseda Blvd Unit 42, Northridge, CA 91324","$539,900",3 bed,2.5 bath,"1,782 sqft",
+,"11228 Kewen Ave, San Fernando, CA 91340","$449,950",2 bed,1 bath,725 sqft,"5,661 sqft lot"
+,"9310 S Western Ave, Los Angeles, CA 90047","$468,500",,,"1,107 sqft","3,000 sqft lot"
+,"629 Rosemont Ave, Los Angeles, CA 90026","$849,000",3 bed,2 bath,"1,390 sqft","5,602 sqft lot"
+,"10437 Ormond St, Shadow Hills, CA 91040","$1,445,000",5 bed,3.5 bath,"4,288 sqft",0.41 acre lot
+,"2030 N Vermont Ave Apt 7, Los Angeles, CA 90027","$679,000",2 bed,1 bath,"1,216 sqft",0.44 acre lot
+,"22306 Saticoy St, Canoga Park, CA 91303","$615,000",4 bed,2 bath,"1,153 sqft","8,760 sqft lot"
+,"8516 Tujunga Valley St, Sunland, CA 91040","$695,000",3 bed,2.5 bath,"1,340 sqft","5,227 sqft lot"
+,"8807 Stansbury Ave, Panorama City, CA 91402","$599,000",3 bed,2 bath,"1,497 sqft","6,206 sqft lot"
+,"16513 Kingsbury St, Granada Hills, CA 91344","$675,000",3 bed,2 bath,"1,850 sqft","7,139 sqft lot"
+,"11148 Sheldon St, Sun Valley, CA 91352","$689,000",3 bed,2 bath,"1,261 sqft","6,941 sqft lot"
+,"5022 Oakbury Ct, Valley Village, CA 91607","$2,850,000",6 bed,5.5 bath,"4,550 sqft","9,439 sqft lot"
+,"6118 Lindenhurst Ave, Los Angeles, CA 90048","$1,599,000",4 bed,3 bath,"2,848 sqft","6,177 sqft lot"
+,"412 W Avenue 45, Los Angeles, CA 90065","$899,000",2 bed,1 bath,988 sqft,"4,077 sqft lot"
+,"19731 Labrador St, Chatsworth, CA 91311","$789,950",3 bed,2 bath,"1,894 sqft","6,985 sqft lot"
+,"6222 Altura Ave, La Crescenta, CA 91214","$798,000",3 bed,2 bath,"1,731 sqft","7,535 sqft lot"
+,"9809 Shoup Ave, Chatsworth, CA 91311","$1,349,000",5 bed,6 bath,"3,150 sqft",0.32 acre lot
+,"7401 Tunney Ave, Reseda, CA 91335","$799,999",4 bed,3 bath,"2,090 sqft","5,137 sqft lot"
+,"5637 Keokuk Ave, Woodland Hills, CA 91367","$825,000",5 bed,3 bath,"2,557 sqft",0.26 acre lot
+,"13130 Montague St, Arleta, CA 91331","$719,900",,,"2,180 sqft","7,483 sqft lot"
+,"3447 Primera Ave, Los Angeles, CA 90068","$1,475,000",3 bed,3 bath,"1,940 sqft","5,836 sqft lot"
+,"7391 Westcliff Dr, West Hills, CA 91307","$1,349,000",5 bed,4.5 bath,"3,393 sqft",0.39 acre lot
+,"5229 W 2nd St, Los Angeles, CA 90004","$5,800,000",7 bed,6 bath,"6,275 sqft",0.26 acre lot
+,"10550 Monogram Ave, Granada Hills, CA 91344","$689,000",3 bed,2 bath,"1,633 sqft","7,501 sqft lot"
+,"801 S Grand Ave Apt 1611, Los Angeles, CA 90017","$980,000",2 bed,2 bath,"1,580 sqft",1.35 acre lot
+,"19400 Wyandotte St Unit 2, Reseda, CA 91335","$349,000",2 bed,2 bath,892 sqft,
+,"2712 S Palm Grove Ave, Los Angeles, CA 90016","$800,000",3 bed,2 bath,808 sqft,"5,205 sqft lot"
+,"5130 W 20th St, Los Angeles, CA 90016","$899,000",2 bed,2.5 bath,"1,092 sqft","2,566 sqft lot"
+,"1630 S Sierra Bonita Ave, Los Angeles, CA 90019","$1,338,000",3 bed,2 bath,"1,908 sqft","5,596 sqft lot"
+,"1712 Abbot Kinney Blvd Units 1 & 2, Venice, CA 90291","$2,495,000",2 bed,2.5 bath,"2,620 sqft","3,001 sqft lot"
+,"5227 Allott Ave, Sherman Oaks, CA 91401","$1,549,000",4 bed,3.5 bath,"2,382 sqft","6,500 sqft lot"
+,"9476 Hidden Valley Pl, Beverly Hills, CA 90210","$1,970,000",4 bed,2 bath,"2,388 sqft",0.26 acre lot
+,"14216 Nordhoff St, Panorama City, CA 91402","$875,000",3 bed,1 bath,"1,390 sqft",0.5 acre lot
+,"23954 Crosson Dr, Woodland Hills, CA 91367","$1,199,000",5 bed,4 bath,"3,031 sqft",0.26 acre lot
+,"3213 Rosewood Ave, Los Angeles, CA 90066","$3,400,000",5 bed,5.5 bath,"3,550 sqft","6,595 sqft lot"
+,"2547 Aberdeen Ave, Los Angeles, CA 90027","$3,200,000",5 bed,4 bath,"3,688 sqft",0.25 acre lot
+,"3205 Shelby Dr, Los Angeles, CA 90034","$2,899,000",4 bed,3 bath,"3,115 sqft",0.23 acre lot
+,"11805 Henley Ln, Los Angeles, CA 90077","$3,699,000",4 bed,4.5 bath,"4,996 sqft","9,552 sqft lot"
+,"1887 W 95th St, Los Angeles, CA 90047","$710,000",6 bed,3 bath,"2,059 sqft","5,100 sqft lot"
+,"6038 Carlton Way Apt 402, Los Angeles, CA 90028","$895,000",3 bed,2.5 bath,"1,390 sqft",0.46 acre lot
+,"12104 Crystal Glen Way, Porter Ranch, CA 91326","$750,000",3 bed,3 bath,"1,845 sqft","4,877 sqft lot"
+,"9302 Hooper Ave, Los Angeles, CA 90002","$379,900",2 bed,2 bath,672 sqft,"2,546 sqft lot"
+,"5051 Rosewood Ave Apt 203, Los Angeles, CA 90004","$590,000",2 bed,2 bath,910 sqft,0.31 acre lot
+,"11284 Woodcock Ave, Pacoima, CA 91331","$619,900",4 bed,2 bath,"2,017 sqft","6,299 sqft lot"
+,"9830 Vidor Dr Apt 302, Los Angeles, CA 90035","$895,000",2 bed,2.5 bath,"1,507 sqft","5,972 sqft lot"
+,"4418 W 30th St, Los Angeles, CA 90016","$799,000",2 bed,1 bath,863 sqft,"2,574 sqft lot"
+,"238 S Avenue 54, Los Angeles, CA 90042","$739,000",3 bed,3 bath,"1,640 sqft","5,227 sqft lot"
+,"23459 Gilmore St, West Hills, CA 91307","$689,900",3 bed,1.5 bath,"1,160 sqft","7,855 sqft lot"
+,"7507 Irondale Ave, Winnetka, CA 91306","$629,000",4 bed,2 bath,"1,284 sqft","8,059 sqft lot"
+,"4206 W 58th Pl, Los Angeles, CA 90043","$1,099,000",3 bed,4 bath,"2,562 sqft","5,380 sqft lot"
+,"6855 Vanscoy Ave, North Hollywood, CA 91605","$779,000",3 bed,3 bath,"1,301 sqft","6,556 sqft lot"
+,"1496 W 3rd St, San Pedro, CA 90732","$879,000",4 bed,2 bath,"2,076 sqft","4,971 sqft lot"
+,"435 S La Fayette Park Pl, Los Angeles, CA 90057","$585,000",2 bed,2 bath,"1,355 sqft",1.08 acre lot
+,"23348 Calvert St, Woodland Hills, CA 91367","$774,777",3 bed,2 bath,"1,666 sqft",0.29 acre lot
+,"2915 Warwick Ave, Los Angeles, CA 90032","$899,000",5 bed,4 bath,"1,950 sqft","6,108 sqft lot"
+,"10166 Wealtha Ave, Sun Valley, CA 91352","$1,668,000",4 bed,3.5 bath,"3,925 sqft",0.46 acre lot
+,"24353 W Stone Bend Ln, Los Angeles, CA 91304","$1,485,990",5 bed,5.5 bath,"4,336 sqft",0.61 acre lot
+,"715 W Hamilton Pl, San Pedro, CA 90731","$699,000",2 bed,1 bath,"1,092 sqft","6,552 sqft lot"
+,"1356 Masselin Ave, Los Angeles, CA 90019","$1,499,000",6 bed,2 bath,"3,180 sqft","5,820 sqft lot"
+,"13600 Marina Pointe Dr Unit 702, Marina del Rey, CA 90292","$1,385,000",2 bed,3 bath,"1,885 sqft",2.82 acre lot
+,"4223 Don Carlos Dr, Los Angeles, CA 90008","$1,800,000",4 bed,5 bath,"4,869 sqft",0.32 acre lot
+,"4040 Grand View Blvd Unit 89, Los Angeles, CA 90066","$735,000",2 bed,2 bath,841 sqft,2.86 acre lot
+,"714 N Spaulding Ave, Los Angeles, CA 90046","$1,975,000",3 bed,3 bath,"1,973 sqft","5,541 sqft lot"
+,"3665 Glenfeliz Blvd, Los Angeles, CA 90039","$1,299,000",2 bed,1 bath,"1,116 sqft","4,069 sqft lot"
+,"3506 Madera Ave, Los Angeles, CA 90039","$1,299,000",2 bed,1 bath,920 sqft,"6,752 sqft lot"
+,"4269 S Hoover St, Los Angeles, CA 90037","$1,249,000",8 bed,6 bath,"2,016 sqft","9,322 sqft lot"
+,"462 N Croft Ave, Los Angeles, CA 90048","$4,199,000",5 bed,5 bath,"3,763 sqft","5,850 sqft lot"
+,"11330 Burnham St, Los Angeles, CA 90049","$2,195,000",4 bed,2 bath,"2,040 sqft","5,288 sqft lot"
+,"10531 Ilona Ave, Los Angeles, CA 90064","$1,749,000",2 bed,1.5 bath,"1,272 sqft","5,850 sqft lot"
+,"2867 Belden Dr, Los Angeles, CA 90068","$1,999,999",3 bed,2 bath,"2,290 sqft","8,622 sqft lot"
+,"8002 Rayford Dr, Los Angeles, CA 90045","$2,700,000",4 bed,3.5 bath,"4,179 sqft",0.24 acre lot
+,"15025 Del Gado Dr, Sherman Oaks, CA 91403","$2,299,000",4 bed,3.5 bath,"2,411 sqft","8,943 sqft lot"
+,"4833 Morella Ave, Valley Village, CA 91607","$5,298,000",5 bed,5 bath,"6,300 sqft",0.57 acre lot
+,"10795 Wilshire Blvd Apt 103, Los Angeles, CA 90024","$1,395,000",2 bed,2.5 bath,"1,717 sqft",0.4 acre lot
+,"14951 Otsego St, Sherman Oaks, CA 91403","$1,599,000",4 bed,4 bath,"2,395 sqft","6,246 sqft lot"
+,"818 Angelus Pl, Venice, CA 90291","$2,275,000",3 bed,2 bath,"1,670 sqft","3,685 sqft lot"
+,"441 N Alfred St, Los Angeles, CA 90048","$4,800,000",5 bed,5.5 bath,"5,506 sqft","7,754 sqft lot"
+,"4315 Beethoven St, Los Angeles, CA 90066","$1,535,000",3 bed,2 bath,"1,555 sqft","4,400 sqft lot"
+,"1602 W 120th St, Los Angeles, CA 90047","$600,000",3 bed,2 bath,"1,809 sqft","5,754 sqft lot"
+,"3750 Santa Rosalia Dr Apt 207, Los Angeles, CA 90008","$569,900",2 bed,2 bath,"1,110 sqft",0.87 acre lot
+,"1236 S Union Ave Unit 6, Los Angeles, CA 90015","$639,000",3 bed,2.5 bath,"1,223 sqft",0.53 acre lot
+,"6814-1/2 Saint Estaban St, Tujunga, CA 91042","$449,000",2 bed,1.5 bath,935 sqft,3.72 acre lot
+,"11166 Telfair Ave, Pacoima, CA 91331","$549,800",4 bed,2 bath,"1,150 sqft","7,492 sqft lot"
+,"3480 Barham Blvd Apt 119, Los Angeles, CA 90068","$550,000",2 bed,2 bath,"1,151 sqft",2.48 acre lot
+,"5461 Newcastle Ave Apt 5, Encino, CA 91316","$489,000",2 bed,3 bath,"1,260 sqft",1.04 acre lot
+,"7027 Gloria Ave, Lake Balboa, CA 91406","$749,000",3 bed,2 bath,"1,581 sqft","4,966 sqft lot"
+,"5805 Whitsett Ave Apt 211, Valley Village, CA 91607","$388,000",1 bed,1 bath,928 sqft,0.4 acre lot
+,"12032 Eddleston Dr, Porter Ranch, CA 91326","$769,900",3 bed,2 bath,"1,560 sqft",0.27 acre lot
+,"11750 Shoshone Ave, Granada Hills, CA 91344","$959,000",5 bed,3 bath,"2,636 sqft",0.37 acre lot
+,"7250 Franklin Ave Unit 715, Los Angeles, CA 90046","$659,000",2 bed,1.5 bath,996 sqft,1.23 acre lot
+,"20600 Desert Ash Ln, Winnetka, CA 91306","$685,000",4 bed,4 bath,"2,031 sqft","1,852 sqft lot"
+,"10550 Wilshire Blvd Apt 903, Los Angeles, CA 90024","$942,000",2 bed,2 bath,"1,711 sqft",0.43 acre lot
+,"8825 S David Ave, Los Angeles, CA 90034","$995,000",2 bed,2 bath,"1,186 sqft","3,711 sqft lot"
+,"345 S Alexandria Ave Apt 219, Los Angeles, CA 90020","$329,000",1 bed,1 bath,570 sqft,0.95 acre lot
+,"1627 Echo Park Ave Apt 5, Los Angeles, CA 90026","$899,000",3 bed,3 bath,"1,320 sqft",1.4 acre lot
+,"7507 Graystone Dr, West Hills, CA 91304","$1,295,000",5 bed,4 bath,"3,085 sqft",0.27 acre lot
+,"13020 Maxella Ave Unit 7, Marina del Rey, CA 90292","$869,000",2 bed,2 bath,"1,057 sqft",8.95 acre lot
+,"4222 Creed Ave, Los Angeles, CA 90008","$1,099,000",6 bed,4 bath,"2,988 sqft","4,400 sqft lot"
+,"6020 Seabluff Dr Unit 431, Playa Vista, CA 90094","$969,000",2 bed,2.5 bath,"1,640 sqft",2.11 acre lot
+,"4670 Don Lorenzo Dr Apt A, Baldwin Hills, CA 90008","$619,000",2 bed,2.5 bath,"1,079 sqft",3.24 acre lot
+,"22046 De La Osa St, Woodland Hills, CA 91364","$799,000",3 bed,2 bath,"1,350 sqft","6,277 sqft lot"
+,"3914 Brilliant Dr, Los Angeles, CA 90065","$1,299,000",3 bed,2.5 bath,"2,451 sqft","6,307 sqft lot"
+,"5065 Pickford St, Los Angeles, CA 90019","$1,849,000",6 bed,4 bath,"3,993 sqft","5,624 sqft lot"
+,"1166 Linda Flora Dr, Los Angeles, CA 90049","$4,650,000",6 bed,8.5+ bath,"17,583 sqft",1.25 acre lot
+,"24365 W Stone Bend Ln, Los Angeles, CA 91304","$1,335,990",4 bed,4.5 bath,"3,279 sqft",0.37 acre lot
+,"7473 Mulholland Dr, Los Angeles, CA 90046","$1,795,000",3 bed,2.5 bath,"2,046 sqft","5,915 sqft lot"
+,"12542 W Fielding Cir Apt 6, Playa Vista, CA 90094","$1,800,000",3 bed,3 bath,"1,871 sqft","8,519 sqft lot"
+,"1056 S St Andrews Pl, Los Angeles, CA 90019","$1,399,000",4 bed,4 bath,"2,019 sqft","9,196 sqft lot"
+,"4740 Arcola Ave, Toluca Lake, CA 91602","$1,695,000",3 bed,3 bath,"2,253 sqft",0.24 acre lot
+,"1834 Echo Park Ave, Los Angeles, CA 90026","$1,200,000",3 bed,2 bath,,"6,976 sqft lot"
+,"102 N Oxford Ave, Los Angeles, CA 90004","$1,600,000",4 bed,2 bath,"5,517 sqft","7,275 sqft lot"
+,"4228 Farmdale Ave, Studio City, CA 91604","$2,995,000",5 bed,4.5 bath,"3,944 sqft","6,753 sqft lot"
+,"3296 Inglewood Blvd, Los Angeles, CA 90066","$2,650,000",5 bed,3 bath,"2,350 sqft","7,492 sqft lot"
+,"4122 Vantage Ave, Studio City, CA 91604","$2,275,000",5 bed,3.5 bath,"4,120 sqft","6,970 sqft lot"
+,"3316 W 63rd St, Los Angeles, CA 90043","$1,750,000",14 bed,14 bath,"8,015 sqft","8,999 sqft lot"
+,"12494 Rubens Ave, Los Angeles, CA 90066","$1,695,000",4 bed,3 bath,"2,142 sqft","5,000 sqft lot"
+,"1339 Appleton Way, Venice, CA 90291","$2,600,000",6 bed,3 bath,"2,035 sqft",0.25 acre lot
+,"1340 N Sycamore Ave, Hollywood, CA 90028","$1,349,000",3 bed,3.5 bath,"2,273 sqft","1,299 sqft lot"
+,"12695 W Bluff Creek Dr, Playa Vista, CA 90094","$2,598,000",4 bed,3.5 bath,"2,688 sqft","1,950 sqft lot"
+,"1106 Fiske St, Pacific Palisades, CA 90272","$6,750,000",7 bed,8 bath,"6,300 sqft","6,499 sqft lot"
